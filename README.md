@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Webmenik
 - 👀 I’m interested in programming, games and football
 - 🌱 I’m currently learning Python
+- You can white me DM
 
 
 
